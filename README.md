@@ -12,9 +12,12 @@ R version: 3.6.0 (2019-04-26) -- "Planting of a Tree"
 R studio version: Version 1.1.463
 
 ## Required libraries 
-randomForest (version 4.6-14) 
-randomForestExplainer (version 0.9) 
-tidyverse (version 1.2.1) 
-naniar (version 0.4.2) 
+- randomForest (version 4.6-14) 
+
+- randomForestExplainer (version 0.9) 
+
+- tidyverse (version 1.2.1) 
+
+- naniar (version 0.4.2) 
 
 
