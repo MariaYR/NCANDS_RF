@@ -1,7 +1,7 @@
 # Bridging the Gap: Social Work Insights for Ethical Algorithmic Decision-Making in Human Services 
 
 ## Purpose:
-This repository holds the code used in the following publication: [tba]. 
+This repository holds the code used in the following publication: https://ieeexplore.ieee.org/document/8792136
 
 ## Hardware Specifciations 
 Presented version of this code was run on Mac OS Mojave (ver. 10.14.5). 
